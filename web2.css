@@ -1,0 +1,69 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+header{
+	width: 100%;
+	height:center;
+	padding: 50px;
+	position: absolute;
+	text-align: center;
+}
+
+
+#HeroBoard{
+	color: #a30808;
+	font-size: 70px;
+	vertical-align: middle;
+	font-family: 'Bowlby One SC', cursive;
+}
+
+#background-1 {
+	z-index: 1;
+	width: 100%;
+	height: 1000px;
+	background: url(http://wallpapercave.com/wp/dF53LEj.png)
+	center center/ cover
+	no-repeat;
+}
+
+#main-nav {
+	font-size: 18px;
+	font-family: 'Bangers', cursive;
+}
+
+#text{
+	color:white;
+	margin-top: 100px;
+	width:100%;
+	font-family: 'Fondamento', cursive;
+	font-family: 'Bilbo', cursive;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+#video{
+	z-index: 2;
+	position: absolute;
+}
+
+#text2{
+	margin: 20px;
+	color:white;
+	width:92%;
+	font-family: 'Fondamento', cursive;
+	font-family: 'Bilbo', cursive;
+	font-weight: bold;
+	font-size: 25px;
+	position: absolute;
+}
+
+
+
